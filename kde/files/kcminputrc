@@ -1,0 +1,3 @@
+[Libinput][1267][12954][ELAN0427:00 04F3:329A Touchpad]
+DisableEventsOnExternalMouse=true
+NaturalScroll=true
