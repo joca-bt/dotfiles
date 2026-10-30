@@ -1,0 +1,6 @@
+[KDE]
+DndBehavior=MoveIfSameDevice
+
+[KFileDialog Settings]
+detailViewIconSize=32
+listViewIconSize=32

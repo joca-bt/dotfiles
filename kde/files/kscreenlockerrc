@@ -1,0 +1,13 @@
+[Daemon]
+LockGrace=0
+Timeout=30
+
+[Greeter]
+WallpaperPlugin=org.kde.potd
+
+[Greeter][LnF][General]
+showMediaControls=false
+
+[Greeter][Wallpaper][org.kde.potd][General]
+FillMode=2
+Provider=bing
